@@ -8,6 +8,8 @@ body{
     margin: 0;
     background-color: rgb(19, 19, 19);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: aliceblue;
 }
 
 h1{
@@ -15,6 +17,11 @@ h1{
     margin: 10px;
     font-weight: bold;
     color: rgb(129, 129, 129);
+}
+
+h2{
+    margin-top: 10px;
+
 }
 
 li{
@@ -35,4 +42,9 @@ a{
 
 li:hover{
     background-color: rgb(51, 51, 51);
+}
+
+img{
+    width: 300px;
+    height: auto;
 }
